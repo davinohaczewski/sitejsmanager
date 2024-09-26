@@ -1,0 +1,28 @@
+{
+  "name": "jsmanager",
+  "version": "0.0.1",
+  "description": "site",
+  "main": "script.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davinohaczewski/sitejsmanager.git"
+  },
+  "keywords": [
+    "jsmanager"
+  ],
+  "author": "jsmanager",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davinohaczewski/sitejsmanager/issues"
+  },
+  "homepage": "https://github.com/davinohaczewski/sitejsmanager#readme",
+  "devDependencies": {
+    "vite": "^5.4.8"
+  }
+}
